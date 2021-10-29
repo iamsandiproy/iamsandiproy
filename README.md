@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iamsandiproy
+- 👀 I’m interested in many thinhgs and one of em happens to be coding
+- 🌱 I’m currently taking a cs50 course
+-📫 How to reach me ...instagram id - _._rahul.roy_._  email- 299sandip@gmail.com
